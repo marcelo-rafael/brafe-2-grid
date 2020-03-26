@@ -7,4 +7,4 @@ a terceira com o Flexbox e por último usando o Bootstrap.
 
 Projeto prático Brafé 2 grid feito com sistema de grid pelo site [Origamid](https://www.origamid.com/curso/css-avancado-posicionamento).
 
-## Link do Projeto: [Brafé 2 puro](https://marcelo-rafael.github.io/brafe-2-grid/)
+## Link do Projeto: [Brafé 2 grid](https://marcelo-rafael.github.io/brafe-2-grid/)
